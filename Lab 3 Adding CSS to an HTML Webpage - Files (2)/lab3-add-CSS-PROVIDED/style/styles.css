@@ -16,9 +16,43 @@ a:hover{
 
 .services{
   font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
+}
+.story{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
+}
+.locations{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
 }
 footer{
   font-style: italic;
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+  padding: 10px;
+}
+header{
+  border-bottom-style: solid;
+  border-bottom-color: #7b7b7b;
+  line-height: 80px;
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
 }
 h2{
   border-bottom-style: solid;
