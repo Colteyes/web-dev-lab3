@@ -1,0 +1,36 @@
+body{
+  width: 600px;
+  margin: 0 auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #00376c;
+}
+a{
+  color: #00376c;
+  text-decoration: none;
+  transition: 3ms;
+
+}
+a:hover{
+  text-decoration: underline;
+}
+
+.services{
+  font-style: italic;
+}
+footer{
+  font-style: italic;
+}
+h2{
+  border-bottom-style: solid;
+  border-bottom-color: #7b7b7b;
+  text-align: center;
+}
+h3{
+  color: #1577ff;
+  border-bottom-style: solid;
+  border-bottom-color: #1577ff;
+  display: inline;
+}
+img{
+  width: 150px;
+}
